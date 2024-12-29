@@ -33,6 +33,3 @@ This project demonstrates the implementation of an end-to-end **Azure Data Engin
 - Built scalable, efficient, and secure data pipelines from ingestion to transformation.
 - Mastered the usage of **Azure Data Factory**, **Azure Databricks**, **Delta Tables**, and **PySpark** for building robust data workflows.
   
----
-
-Feel free to add any additional details or make changes as needed.
